@@ -1,4 +1,4 @@
-package com.stackroute;
+package com.stackroute.domain;
 
 
 import com.stackroute.domain.Actor;
